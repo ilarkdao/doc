@@ -1,0 +1,15 @@
+﻿{
+    "title": "Lark手册",
+    "author": "lemool jiang",
+    "Homepage": "https://ilark.io/",
+    "description": "Lark, A Metaverse of value delivery",
+    "language": "zh-hans",
+    "copyright": "All Rights Reserved",
+    "plugins":[
+        "expandable-chapters",
+        "-sharing"
+    ],
+    "github": {
+        "url": "https://github.com/ilarkdao"
+    }
+}
